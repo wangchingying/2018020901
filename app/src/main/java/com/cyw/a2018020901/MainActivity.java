@@ -7,6 +7,7 @@ import android.widget.CheckedTextView;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 
+//除了follow firebase的admob做,也要去google admob註冊得到幾個碼,共三種類別廣告, banner,一頁,倒數
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "MainActivity";
